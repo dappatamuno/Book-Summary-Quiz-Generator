@@ -1,0 +1,1 @@
+streamlit\nopenai\nlangchain\nPyPDF2\npython-docx\ntiktoken\ndotenv
